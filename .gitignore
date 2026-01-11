@@ -1,1 +1,20 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+...
+
+# Other typical ignores
 .DS_Store
+.vscode/
+.idea/
+*.log
+...
